@@ -1,0 +1,10 @@
+
+
+class Funkcii
+  def SayPrivet(word, num)
+    puts "Hello"
+    puts ("Your w: " + word + "Your num: "+ num.to_s)
+  end
+  SayPrivet
+
+end
